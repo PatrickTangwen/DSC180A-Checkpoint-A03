@@ -1,4 +1,5 @@
-# DSC180A-Checkpoint-A03
+# DSC180A-Checkpoint-A03-Data_Integration
+
 This week, we are starting to work on creating a local database to store patient data. Below is the command for the creation process.<br>
 ```
 psql
