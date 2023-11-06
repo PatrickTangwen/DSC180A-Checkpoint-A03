@@ -1,6 +1,6 @@
 # DSC180A-Checkpoint-A03
 
-Command for createing psql databse:
+Command for creating psql databse:
 ```
 psql
 CREATE DATABASE med_dash;
@@ -15,4 +15,12 @@ CREATE TABLE patient1_daily_hr (
     source TEXT,
     restorative BOOLEAN
 );
+```
+
+```
+\COPY patient1_daily_hr FROM '/pathto/patient_1_daily_hr.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+```
+
+```
+SELECT COUNT(*) FROM patient1_daily_hr;
 ```
