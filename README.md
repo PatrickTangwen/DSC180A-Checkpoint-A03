@@ -7,4 +7,10 @@ In this year’s project, we are aiming on:<br>
 <li>Implement Vital API for getting patients data from different electronic devices. 
 Calculating and analyzing patients data from API. 
 
+# Data
+All Data are stored in the "Data" folder
+
+# Structure
+
+
 
