@@ -11,6 +11,19 @@ Calculating and analyzing patients data from API.
 All Data are stored in the "Data" folder
 
 # Structure
+- / (root directory)
+  - Data/
+    - patient1
+    - patient2
+    - patient3
+  - Notebook/
+    - Data_Processing.ipynb
+  - quickstart/
+  - .DS_Store
+  - Local_Database_Setup.md
+  - Local_Vital_Dashboard_Setup.md
+  - README.md
+
 
 
 
