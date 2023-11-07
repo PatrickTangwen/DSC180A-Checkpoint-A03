@@ -3,7 +3,7 @@
 To get started with Vital quickstart, start with reading our [Docs](https://docs.tryvital.io/welcome/quickstart)
 
 
-### Step 1 - Obtain and set Credentials
+### Step 1 - Obtain and set Credential
 
 The first step is to obtain your credentials from the Vital Dashboard. 
 
